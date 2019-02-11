@@ -8,17 +8,14 @@ stop = stopwords.words('english')
 string = """
 Hey,
 
-This week has been crazy. Attached is my report on IBM. Can you give it a quick read and provide some feedback.
+I am Sajid. I have forked this code just for testing.
+My contact number is 3360057759.
+If you need help in any ML, AI, NLP projects you can forward me your
+requirements at sajidurrehman8@gmail.com.
 
-Also, make sure you reach out to Claire (claire@xyz.com).
 
-You're the best.
-
-
-Cheers,
-
-George W.
-212-555-1234
+Regards,
+Sajid Ur Rehman
 """
 
 def extract_phone_numbers(string):
